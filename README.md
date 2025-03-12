@@ -8,3 +8,4 @@ In here, I am doing some HTML Projects
 05) The Project 5 is creating the BERKSHIRE HATHAWAY INC.website using HTML
 06) The Project 6 is Creating Surveying Form using HTML
 07) The project 7 is Sample Platfolio with small part of name and experience only with using HTML
+08) The project 8 is a simple HTML and CSS project for a taco shop website. It includes pages for store hours, contact information, and a menu.
